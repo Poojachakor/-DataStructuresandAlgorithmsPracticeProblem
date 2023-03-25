@@ -4,8 +4,8 @@
     {
         static void Main(string[] args)
         {
-            PrimeNumber numbers = new PrimeNumber();
-            numbers.Prime();
+            Anagrams anagram = new Anagrams();
+            anagram.Check_Anagram();
 
         }
     }

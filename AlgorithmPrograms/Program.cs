@@ -4,10 +4,8 @@
     {
         static void Main(string[] args)
         {
-
-            InsertionSort insertionSort = new InsertionSort();
-            insertionSort.doInsertionSort();
-
+            PrimeNumber numbers = new PrimeNumber();
+            numbers.Prime();
 
         }
     }
